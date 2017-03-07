@@ -56,6 +56,20 @@ header {
   padding: 1rem;
   font-weight: 300; }
 
+nav a {
+  font-size: 2em;
+  font-weight: bold;
+  color: yellow; }
+
+nav p {
+  font-size: 1em;
+  text-decoration: none;
+  color: black; }
+
+nav h6 {
+  font-size: 3em;
+  color: pink; }
+
 h1 {
   font-size: 20em; }
 

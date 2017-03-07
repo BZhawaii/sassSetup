@@ -20,7 +20,20 @@ header {
 }
 
 nav {
-  font-weight: 
+  a {
+    font-size: 2em;
+    font-weight: bold;
+    color: yellow;
+  }
+  p {
+    font-size: 1em;
+    text-decoration: none;
+    color: black;
+  }
+  h6 {
+    font-size: 3em;
+    color: pink;
+  }
 }
 
 h1 {
